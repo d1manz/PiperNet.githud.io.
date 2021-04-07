@@ -1,0 +1,173 @@
+.conteiner {
+    width: 1219px;
+    margin: 0 auto;    
+}
+.header {
+    background:#007765;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    position: fixed;
+    top: 0;
+    left: 8px;
+    right: 8px;
+}
+.header__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.logo_top {
+    background-image: url("img/1.png");
+    color: #EEEEEE;
+    text-align: center;
+    font-size: 72px;
+    padding-top: 244px;
+    padding-bottom:160px;
+    font-family: Roboto;
+
+}
+.links {
+    display: flex;
+    color: #fff;
+}
+.link_color {
+    color: #fff;
+    text-decoration-line: none;
+    font-size: 24px;
+    line-height: 28px;
+    font-weight: 500;
+    font-family: Roboto;
+}
+.separator {
+    margin-left: 8px;
+    margin-right: 8px;
+    font-size: 24px;
+    line-height: 28px;
+    font-weight: 500;
+}
+.heading_problem {
+    font-size: 60px;
+    font-family: Roboto;
+    color:#007765;
+    text-align: center;
+    padding-top: 47px;
+    padding-left: 55px;
+    padding-right: 57px;
+}
+.content_top {
+    background: #EEEEEE;
+}
+.text_problem {
+    font-size: 32px;
+    padding-top: 16px;
+    padding-left: 55px;
+    padding-right: 54px;
+    padding-bottom: 92px;
+    font-family: roboto;
+}
+.logo_bot {
+    background-image: url("img/2.png");
+    color: white;
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+    padding: 128px 559px 127px 559px;  
+}
+.contemt_bot {
+    padding-top: 48px;
+    
+}
+.IPPC {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 75px;
+    color: #007765;
+    text-align: center;
+    margin-bottom: 16px;
+}
+.obtekanie {
+    align-items: center;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 37px;
+    display: flex;
+    justify-content: center;
+
+}
+.pictures {
+    margin-right: 48px;
+}
+.sleep {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 37px;
+    padding-bottom: 92px;
+}
+.the_team {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 75px;
+    text-align: center;
+    color: #007765;
+    padding-bottom:  56px; ;
+
+}
+.cards {
+    display:flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+.card {
+    padding: 24px 91px 51px 91px;
+}
+.name {
+    text-align: center;
+    padding-top: 12px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    color: #007765;
+}
+.work {
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;  
+    color: #000000;
+    text-align: center;
+}
+.logo_footer {
+    background-image: url(img/Rectangle\ \(1\).png) ;
+}
+.footer {
+    padding-top:  50px; ;
+    padding-bottom: 62px;
+    font-family: roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;  
+    color: #FFFFFF;
+    max-width: 540px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
